@@ -50,12 +50,12 @@ font-weight: 800;text-align: center;color: aliceblue      ;margin-right: 400px;
 font-weight: 400;text-align: center;color: aliceblue      ;
   }
   .snd p{
-    margin: 0px;
+    margin: 0px; text-align: center;
   }
   .vtn{
     font-style: Semi Bold;
 font-size: 25px;gap: 16px;justify-content: space-between;
-font-weight: 600;  margin-left: 650px;margin-top: 10px;
+font-weight: 600;   align-items: center;justify-content: center;
   }
   .btn-img{
     height: 17px;
