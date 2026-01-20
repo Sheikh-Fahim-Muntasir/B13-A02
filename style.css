@@ -126,3 +126,86 @@ height: 60px;
 .cnt{
   margin-top: 20px; margin-left: 20px;
 }
+.foot{
+  display: flex; gap: 40px;   margin-top: 50px; max-width: 1400px; 
+height: 280px; background-color:  rgba(53, 17, 101, 0.4); margin-left: 200px; border-radius: 90px;
+} 
+.sc{
+  height: 20px;
+width: 20px; border-radius: 33px; gap: 20px;padding: 10px;border: 1px solid rgba(83, 60, 114, 1);
+
+}
+.s{
+  gap: 502px;
+}
+.footer{
+  background-image: url(./assets/footer-bg.png);max-width: 1700px;
+height: 500px;   
+}
+.tech{
+  margin-top: 20px;margin-left: 200px;
+}
+.shopi{
+display: flex; gap: 30px; align-items: center; font-size: 25px; margin-left: 600px; margin-top: 0px;padding-top: 0px;
+}
+ .ham{
+  display: none;
+ }
+ 
+ @media screen and (max-width:576px) {
+    .top-center{
+      display: none;
+    }
+    .ham{
+      display: block;
+    }
+    .sub{
+      display: none;
+    }
+   .one{
+    justify-content: space-between;
+   }
+      .top-text{
+        margin-left: -1px; padding-left: 20px;
+      }
+    .banner{
+ ;
+    }
+.img{
+  width: 20%; margin-right: -220px;
+height: 20%px;
+}
+.micro{
+  width: 80px;  
+height: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+ 
+ 
+ 
+
+
+
+}
