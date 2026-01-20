@@ -54,7 +54,7 @@ font-weight: 400;text-align: center;color: aliceblue      ;
   }
   .vtn{
     font-style: Semi Bold;
-font-size: 25px;gap: 16px;justify-content: space-between;
+font-size: 25px;gap: 16px; justify-content: center;
 font-weight: 600;    margin-left: 650px;
   }
   .btn-img{
